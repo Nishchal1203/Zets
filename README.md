@@ -1,2 +1,2 @@
 # Zets
-Ev bike and Auto hailing Application 
+Ride hailing application
